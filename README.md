@@ -1,4 +1,4 @@
-# 🛡️ Welcome to Our Cybersecurity & Ethical Hacking Repository! 🧑‍💻
+# 🛡️ Welcome to Our Cybersecurity & Ethical Hacking Repository!
 
 ### About Us (Team)
 We are a student team from **Isfahan University of Technology (IUT)**, passionate about **Cybersecurity** and **Ethical Hacking**.  
