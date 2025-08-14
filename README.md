@@ -4,9 +4,6 @@
 We are a student team from **Isfahan University of Technology (IUT)**, passionate about **Cybersecurity** and **Ethical Hacking**.  
 Our mission is to learn systematically, practice hands-on, and build projects that strengthen our skills in the world of information security — always **legal, responsible, and within authorized environments**.
 
-> ⚠️ **Ethical & Legal Disclaimer**  
-> All activities in this repository are for educational purposes only. Any penetration testing is done **only** on personal, lab, or explicitly authorized systems.
-
 ---
 
 ## 🎯 Repository Goals
