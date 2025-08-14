@@ -32,3 +32,4 @@ Our mission is to learn systematically, practice hands-on, and build projects th
 - TryHackMe (Paya): `https://tryhackme.com/p/Member3`  
 - Hack The Box (Optional): `https://app.hackthebox.com/profile/YourID`  
 
+<img width="888" height="457" alt="Image" src="https://github.com/user-attachments/assets/e3ef2f66-54c1-4a4f-93dc-e2f1afdfcfaf" />
