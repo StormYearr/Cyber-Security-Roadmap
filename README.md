@@ -20,7 +20,6 @@ Our mission is to learn systematically, practice hands-on, and build projects th
 - **Foundations:** Linux Basics, Networking, Web Fundamentals  
 - **Tools:** nmap, Wireshark, Burp Suite, gobuster, hydra, sqlmap
 - **Topics:** Web Security (OWASP), Privilege Escalation, Active Directory Basics, DFIR, Cloud Security  
-- **Report Writing:** templates, playbooks, checklists
 
 ---
 
