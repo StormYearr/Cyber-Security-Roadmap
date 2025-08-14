@@ -11,16 +11,14 @@ Our mission is to learn systematically, practice hands-on, and build projects th
 
 ## 🎯 Repository Goals
 - Understand fundamental concepts of security, networking, and operating systems  
-- Practice hands-on labs on platforms like **TryHackMe** and **Hack The Box**  
-- Develop small security-related scripts and automations (legally)  
-- Analyze and write structured reports (Report Writing)  
-- Build educational projects: logging, monitoring, hardening, threat analysis, and more  
-
+- Practice hands-on labs on platforms like **TryHackMe**  
+- Build educational projects: logging, monitoring, hardening, threat analysis, and more
+  
 ---
 
 ## 🧭 Learning Path
 - **Foundations:** Linux Basics, Networking, Web Fundamentals  
-- **Tools:** nmap, Wireshark, Burp Suite, gobuster, hydra, sqlmap (responsible use)  
+- **Tools:** nmap, Wireshark, Burp Suite, gobuster, hydra, sqlmap
 - **Topics:** Web Security (OWASP), Privilege Escalation, Active Directory Basics, DFIR, Cloud Security  
 - **Report Writing:** templates, playbooks, checklists
 
