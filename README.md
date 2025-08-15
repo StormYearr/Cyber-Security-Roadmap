@@ -23,7 +23,7 @@ Our mission is to learn systematically, practice hands-on, and build projects th
 ## 🔗 Profiles & Practice Links
 - TryHackMe (Nazanin): `https://tryhackme.com/p/Member1`  
 - TryHackMe (Mahdi): `https://tryhackme.com/p/Member2`  
-- TryHackMe (Paya): `https://tryhackme.com/p/Member3`  
+- TryHackMe (Paya): `https://tryhackme.com/p/Paya38`  
 - TryHackMe (Shared account): `https://app.hackthebox.com/profile/YourID`  
 
 <img width="888" height="457" alt="Image" src="https://github.com/user-attachments/assets/e3ef2f66-54c1-4a4f-93dc-e2f1afdfcfaf" />
